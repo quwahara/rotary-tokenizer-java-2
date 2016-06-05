@@ -23,4 +23,4 @@ This product is distributed under The MIT License (MIT).
 
 The sentence is below:
 
-https://raw.githubusercontent.com/quwahara/rotary-tokenizer-java/master/rotary-tokenizer-java/LICENSE
+https://raw.githubusercontent.com/quwahara/rotary-tokenizer-java-2/master/LICENSE
