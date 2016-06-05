@@ -1,4 +1,4 @@
-# rotary-tokenizer-java
+# rotary-tokenizer-java-2
 
 This tokenizer aims to work for programing language like texts.
 
